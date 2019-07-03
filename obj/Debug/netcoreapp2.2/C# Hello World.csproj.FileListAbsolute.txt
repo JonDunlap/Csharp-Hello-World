@@ -1,0 +1,11 @@
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/bin/Debug/netcoreapp2.2/C# Hello World.deps.json
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/bin/Debug/netcoreapp2.2/C# Hello World.runtimeconfig.json
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/bin/Debug/netcoreapp2.2/C# Hello World.runtimeconfig.dev.json
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/bin/Debug/netcoreapp2.2/C# Hello World.dll
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/bin/Debug/netcoreapp2.2/C# Hello World.pdb
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.csprojAssemblyReference.cache
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.csproj.CoreCompileInputs.cache
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.AssemblyInfoInputs.cache
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.AssemblyInfo.cs
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.dll
+/Users/jondunlap/OneDrive - Full Sail University/Code Playground C#/C# Hello World/obj/Debug/netcoreapp2.2/C# Hello World.pdb
